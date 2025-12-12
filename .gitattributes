@@ -1,0 +1,4 @@
+package-rootfs/usr/lib/**/* filter=lfs diff=lfs merge=lfs -text
+package-rootfs/opt/cisco/TeamsVDI/**/* filter=lfs diff=lfs merge=lfs -text
+package-rootfs/usr/bin/**/* filter=lfs diff=lfs merge=lfs -text
+package-rootfs/opt/Citrix/ICAClient/**/* filter=lfs diff=lfs merge=lfs -text

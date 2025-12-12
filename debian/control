@@ -1,0 +1,14 @@
+Source: webex-vdi
+Section: unknown
+Priority: optional
+Maintainer: Development Team <devteam@openthinclient.com>
+
+Package: webex-vdi
+Architecture: amd64
+Description: Cisco Webex App VDI Plugin
+ Improves audio and video performance for Cisco Webex App running in a virtual desktop environment.
+ .
+ This package will be installed automatically as a dependency of supported VDI clients.
+XB-License: Use of this Software is governed by the then-current Cisco END USER LICENSE AGREEMENT found at the following link: http://www.cisco.com/go/eula
+ .
+ By installing Cisco WebexVDI software, you agree to comply with the terms and conditions of the Cisco EULA.
